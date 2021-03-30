@@ -1,3 +1,6 @@
 [submodule "3DSolarSytemModel"]
 	path = 3DSolarSytemModel
 	url = https://github.com/atuladitya25/3DSolarSytemModel.git
+[submodule "3DTankFollowAndAim"]
+	path = 3DTankFollowAndAim
+	url = https://github.com/atuladitya25/3DTankFollowAndAim.git
